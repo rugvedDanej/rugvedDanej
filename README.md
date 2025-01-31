@@ -15,4 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&title_color=fff&icon_color=cf9fff&text_color=9f9f9f&bg_color=151515&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515&combine_all_yearly_contributions=true)
 
-
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
