@@ -17,4 +17,12 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/rugveddanej/rugveddanej.me/pull/1) in [rugveddanej/rugveddanej.me](https://github.com/rugveddanej/rugveddanej.me)
+2. 🎉 Merged PR [#2](https://github.com/rugveddanej/rugveddanej.me/pull/2) in [rugveddanej/rugveddanej.me](https://github.com/rugveddanej/rugveddanej.me)
+3. 💪 Opened PR [#2](https://github.com/rugveddanej/rugveddanej.me/pull/2) in [rugveddanej/rugveddanej.me](https://github.com/rugveddanej/rugveddanej.me)
+4. 🎉 Merged PR [#1](https://github.com/rugveddanej/rugveddanej.me/pull/1) in [rugveddanej/rugveddanej.me](https://github.com/rugveddanej/rugveddanej.me)
+5. 🎉 Merged PR [#2](https://github.com/rugveddanej/rugveddanej.github.io/pull/2) in [rugveddanej/rugveddanej.github.io](https://github.com/rugveddanej/rugveddanej.github.io)
+6. 💪 Opened PR [#2](https://github.com/rugveddanej/rugveddanej.github.io/pull/2) in [rugveddanej/rugveddanej.github.io](https://github.com/rugveddanej/rugveddanej.github.io)
+7. 🎉 Merged PR [#1](https://github.com/rugveddanej/rugveddanej.me/pull/1) in [rugveddanej/rugveddanej.me](https://github.com/rugveddanej/rugveddanej.me)
+8. 💪 Opened PR [#1](https://github.com/rugveddanej/rugveddanej.me/pull/1) in [rugveddanej/rugveddanej.me](https://github.com/rugveddanej/rugveddanej.me)
 <!--END_SECTION:activity-->
