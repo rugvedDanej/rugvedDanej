@@ -3,6 +3,7 @@
   
 # Hi, I'm Rugved! <img src="https://github.com/rugveddanej/rugveddanej/blob/main/assets/gif/bolt.gif" width="20px">
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frugveddanej&label=VIEWS&labelColor=%23000000&countColor=%23fe3d58)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frugveddanej)
 </div>
 
 ## About Me
@@ -13,4 +14,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rugveddanej&theme=dark&fire=dc143c&ring=dc143c&currStreakLabel=dc143c&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddanej&title_color=fff&icon_color=cf9fff&text_color=9f9f9f&bg_color=151515&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=rugveddanej&limit=5&title_color=fff&icon_color=dc143c&text_color=9f9f9f&bg_color=151515&combine_all_yearly_contributions=true)
-</div>
+
+
